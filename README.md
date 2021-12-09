@@ -2,7 +2,7 @@
 
  
 1. Obtain the playbook
-git clone https://github.com/do-community/ansible-playbooks.git
+git clone  https://github.com/inesbday/install-docker-ansible.git
 cd ansible-playbooks/docker_ubuntu1804
 
 2. Customize Options
